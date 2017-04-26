@@ -1,0 +1,13 @@
+hjarta;ás;Grábotni;Vogum;45;102;7.5;0;17.5;106;139;8.5;Grímur;Grábotna
+hjarta;tvistur;Prjónn;Hesti;47.5;110;7.8;370;17.5;105;122;8.6;Þráður;05-110
+hjarta;þristur;Smyrill;Smyrlabjörgum;47.8;101;7.9;9717.2;95;114;8.4;Mosi;Fela
+hjarta;fjarki;Vorm;Holtahólum;47.6;95;7.8;158;17.3;111;122;8.5;Melur;Vordís
+hjarta;fimma;Kaldi;Kaldbak;47.8;100;7.9;218;17.1;135;93;8.4;Hnöttur;Hæ-þrenna
+hjarta;sexa;Bramli;Hesti;47.5;104;7.8;347;17.2;106;102;8.4;Lóði;01-062
+hjarta;sjöa;Borði;42;110;8.0;0;18.0;104;x;9.0;Taumur;05-071
+hjarta;átta;Falur;Heydalsá;48.3;106;8.2;26;16.9;95;114;8.3;Goði;98-377
+hjarta;nía;Bogi;Heydalsá;49.9;110;8.3;310;17.3;102;116;8.5;Erpur;01-505
+hjarta;tía;Kjói;Suðurlandsá;48.8;106;8.4;160;17.0;94;111;8.3;Spói;02-238
+hjarta;gosi;Vöðvi;Hafnardal;47;100;8.0;0;17.5;106;112;9.0;Vöðvi;Fura
+hjarta;drottning;Freyðir;Hesti;46.4;105;7.9;135;17.4;103;118;8.6;Flúðar;03-290
+hjarta;kóngur;Sokki;Brúnastöðum;41;108;7.0;0;17.3;108;144;8.5;Kækur;Hvísl
